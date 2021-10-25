@@ -8,7 +8,7 @@ Administrador de redes e telecomunicações.  8 anos de experiencias em varias t
 <hr> 
  
  
-<ul type="a">
+<ul>
 <li>Sistema da Informação - UNIME - 6° semestre  </li>
 <li>Técnico de redes computadores SENAI BA </li>
 </ul>
@@ -21,7 +21,7 @@ Administrador de redes e telecomunicações.  8 anos de experiencias em varias t
  Empresa de consultoria, oferecendo seriços de redes, telecomunicacoes e TI. 
  
 <h4> F & F comunicações </h4>
-Análise da infraestrutura de redes.
+Analista de suporte N3
 
 <h4> Sat&Art </h4>
 Técnico instalador
