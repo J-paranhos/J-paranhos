@@ -47,7 +47,7 @@ Técnico instalador
 <li>AWS Certified Solutions Architect </li>
 </ul>
 
-<i> <b> <h3> Coptencias </h3> </b></i>  <hr>
+<i> <b> <h3> Habilidades </h3> </b></i>  <hr>
 
 <ul>
 <li>Mikrotik </li>
