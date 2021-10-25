@@ -55,6 +55,8 @@ Técnico instalador
 <li>Fibra optica </li>
 <li>TCP/IP </li>
 <li>Modelo OSI </li>
+<li>Provedores </li>
+<li>FTTH </li>
 </ul>
 
 
