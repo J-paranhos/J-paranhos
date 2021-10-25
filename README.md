@@ -1,16 +1,60 @@
-### Hi there 👋
+<i> <b> <h3> Sobre </h3> </b></i> 
+ <hr>
 
-<!--
-**J-paranhos/J-paranhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Administrador de redes e telecomunicações.  8 anos de experiencias em varias topologias para provedores e empresas.
 
-Here are some ideas to get you started:
+  
+<i> <b> <h3> Formação  </h3> </b></i> 
+<hr> 
+ 
+ 
+<ul type="a">
+<li>Sistema da Informação - UNIME - 6° semestre  </li>
+<li>Técnico de redes computadores SENAI BA </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<i> <b> <h3> Experiencias  </h3> </b></i> 
+<hr>
+ 
+<h4> Jparanhos Consultoria e serviços </h4>
+ Empresa de consultoria, oferecendo seriços de redes, telecomunicacoes e TI. 
+ 
+<h4> F & F comunicações </h4>
+Análise da infraestrutura de redes.
+
+<h4> Sat&Art </h4>
+Técnico instalador
+
+  
+<i> <b> <h3> Certificações </h3> </b></i> 
+<hr>
+
+<ul>
+<li>MikroTik Certified Inter-Networking Engineer - MTCINE </li>
+<li>MikroTik Certified Security Engineer - MTCSE</li>
+<li>MikroTik Certified Router Engineer - MTCRE </li>
+<li>MikroTik Certified Network Associate - MTCNA </li>
+<li>FCP Fibra Óptica</li>
+</ul>
+
+<i> <b> <h3> Estudos em adamentos </h3> </b></i> 
+<hr>
+
+<ul>
+<li>Linux Professional Institute - LPIC-1 </li>
+<li>Cisco Certified Network Associate - CCNA</li>
+<li>AWS Certified Solutions Architect </li>
+</ul>
+
+<i> <b> <h3> Coptencias </h3> </b></i>  <hr>
+
+<ul>
+<li>Mikrotik </li>
+<li>Linux</li>
+<li>Fibra optica </li>
+<li>TCP/IP </li>
+<li>Modelo OSI </li>
+</ul>
+
+
