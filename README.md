@@ -9,7 +9,7 @@ Administrador de redes e telecomunicações.  8 anos de experiencias em varias t
  
  
 <ul>
-<li>Sistema da Informação - UNIME (em adamento) </li>
+<li>Sistema da Informação - UNIME </li>
 <li>Técnico de redes computadores SENAI BA </li>
 </ul>
 
